@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer vision, Machine Learning, Computer Graphics**
 
-- 👯 I’m looking to collaborate on **Augmented Reality and Computer vision projects!**
+- 👯 I’m looking to collaborate on **Computer vision projects!**
 
 - 📫 How to reach me **arazlighi@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
 
-- 🔭 I’m currently working on **Self-Suprevised semantic segmentation for medical images**
+- 🔭 I’m currently working on **Weakly-Supervised Semantic Segmentation**
 
 - 🌱 I’m currently learning **Computer vision, Machine Learning, Computer Graphics**
 

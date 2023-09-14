@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
 
-- 🔭 I’m currently working on **Weakly-Supervised Semantic Segmentation**
+- 🔭 I’m currently working on **NeRF models and Vision-Based Robotic manipulation**
 
-- 🌱 I’m currently learning **Computer vision, Machine Learning, Computer Graphics**
+- 🌱 I’m currently learning **3D Computer vision, Machine Learning, Computer Graphics**
 
-- 👯 I’m looking to collaborate on **Computer vision projects!**
+- 👯 I’m looking to collaborate on **3D Computer vision projects!**
 
 - 📫 How to reach me **arazlighi@gmail.com**
 

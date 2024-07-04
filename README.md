@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
 
-- 🔭 I’m currently working on **NeRF models and Vision-Based Robotic manipulation**
+- 🔭 I’m currently working on **3D Reconstruction, specifically NeRF models and GS models!**
 
 - 🌱 I’m currently learning **3D Computer vision, Machine Learning, Computer Graphics**
 

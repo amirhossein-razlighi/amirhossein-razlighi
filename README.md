@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
 
-- 🔭 I’m currently working on **3D Reconstruction, specifically NeRF models and GS models!**
+- 🔭 I’m currently working on **Computer Vision and Graphics, Specially in the Generative AI domain**
 
-- 🌱 I’m currently learning **3D Computer vision, Machine Learning, Computer Graphics**
+- 🌱 I’m currently learning **Generative AI, diffusion models, Computer Graphics**
 
-- 👯 I’m looking to collaborate on **3D Computer vision projects!**
+- 👯 I’m looking to collaborate on **3D Computer vision & Graphics projects!**
 
 - 📫 How to reach me **arazlighi@gmail.com**
 

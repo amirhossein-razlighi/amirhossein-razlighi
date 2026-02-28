@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AmirHossein</h1>
 <h3 align="center">An enthusiastic computer vision researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=amirhossein-razlighi" alt="amirhossein-razlighi" /></a> </p>
 
 - 🔭 I’m currently working on **3D Reconstruction, specifically NeRF models and GS models!**
 
